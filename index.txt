@@ -1,0 +1,2 @@
+V	160420030651Z		01	unknown	/CN=$(hostname)/O=server
+V	160420031318Z		02	unknown	/CN=$(hostname)/O=client
